@@ -1,0 +1,48 @@
+section {
+    padding: 20px 0;
+    overflow: hidden;
+  }
+  #learning{
+      background-color: aliceblue;
+      
+  }
+  
+  .big-title h2 {
+    font-size: 18px;
+    padding: 0;
+    text-transform: uppercase;
+    line-height: 1.1em;
+    margin: 0 !important;
+    display: block;
+    position: relative;
+    
+}
+.big-title.text-left hr.customhr {
+    display: block;
+    padding: 0;
+    margin: 30px 0 25px;
+    position: relative;
+    width: 40%;
+    
+}
+hr.customhr {
+    border-style: dashed;
+    border-color: #d0d0d0;
+    display: block;
+    padding: 0;
+    margin: 30px auto 25px;
+    position: relative;
+    width: 40%;
+    align-self: left;
+ 
+    
+}
+.big-title p{
+    font-family: 'Droid Serif', sans-serif !important;
+    font-style: italic;
+}
+.check {
+    list-style: none;
+    padding: 0;
+    font-size: 15px;
+}

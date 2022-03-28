@@ -1,0 +1,99 @@
+#about{
+background-color: #ecf0f1;
+}
+.testibox {
+    display: block;
+    position: relative;
+    min-height: 180px;
+    padding: 30px;
+}
+.big-title {
+    display: block;
+    margin-bottom: 50px;
+    position: relative;
+    
+}
+.big-title h2 {
+    font-size: 21px;
+    padding: 0;
+    text-transform: uppercase;
+    line-height: 1.1em;
+    margin: 0 !important;
+    display: block;
+    position: relative;
+}
+.alignleft {
+    float: left;
+    margin: 10px 20px 20px 0;
+    border-radius: 50%;
+    height: 50px;
+
+
+}
+.testibox h4 {
+    font-size: 15px;
+    padding: 0;
+    margin: 0 0 4px;
+    line-height: 1;
+}
+.testibox p {
+    text-align: left;
+}
+.text{
+    border: solid 1px red;
+
+}
+.testibox a {
+    color: #e74c3c !important;
+}
+.name h4{
+    margin-left: 20px;
+}
+.name small{
+    margin-left: 20px;
+}
+.section {
+    display: block;
+    /* position: relative; */
+    background-color: #ffffff;
+    padding-top: 40px;
+    /* padding: 60px 0; */
+}
+.section .device-showcase {
+    position:absolute;
+    width: 706px;
+    height: 702px;
+    /* bottom: 30px; */
+    right: 50%;
+    background: url(../../assets/ipad.png) no-repeat center;
+    z-index: 1;
+    
+    
+}
+.devices {
+    position: absolute;
+    bottom: 30px;
+    margin-left: 200px;
+}
+/* .section .ipad-wrap {
+    width: 706px;
+    height: 1002px;
+   
+} */
+
+.service-list{
+    
+    text-align: left;
+    justify-items: left;
+
+}
+
+.about-background-color {
+    display: block;
+    position: relative;
+    background-color: #ffffff;
+    padding: 60px 0;
+    background-color: rgb(236,240,241);
+ 
+    text-align: center;
+}

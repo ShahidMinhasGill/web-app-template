@@ -1,0 +1,41 @@
+.demo-parallax {
+    padding: 30rem 0 15rem !important;
+    background-position: 0px -100px;
+}
+.looking-photo {
+    position: relative;
+}
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    /* height: 100%; */
+    /* padding: 90px 0; */
+    /* position: relative; */
+    /* width: 100%; */
+}
+.bg-img{
+    background-image: url(../../assets/demo.jpg);
+  }
+    .centermessage h4 {
+        display: inline-block;
+        font-size: 38px !important;
+        font-weight: 900;
+        line-height: 1.3;
+        color: #fff;
+        margin: 0 0 20px;
+        position: relative !important;
+    }
+    .centermessage p {
+        display: inline-block;
+    
+        line-height: 1.3;
+        color: #fff;
+        margin: 0 0 20px;
+        position: relative !important;
+    }
+    .custom-btn {
+            background-color: #e74c3c !important;
+            border-color: #e74c3c !important;
+            color: #ffffff !important;
+        
+    }

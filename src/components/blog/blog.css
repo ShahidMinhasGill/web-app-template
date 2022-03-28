@@ -1,0 +1,50 @@
+.big-title {
+    display: block;
+    margin-bottom: 50px;
+    position: relative;
+}
+hr.customhr {
+    border-style: dashed;
+    border-color: #d0d0d0;
+    display: block;
+    padding: 0;
+    margin: 30px auto 25px;
+    position: relative;
+    width: 40%;
+}
+.big-title p {
+    font-size: 14px;
+    line-height: 1.8;
+    margin-bottom: 0;
+}
+.post-media img {
+    width: 100% !important;
+}
+.blog-wrapper .blog-meta {
+    display: block;
+    position: relative;
+    margin: 20px 0 15px;
+    padding: 0;
+}
+
+
+.blog-title .blog-meta a {
+    color: #888888;
+    font-size: 12px;
+    font-weight: 400;
+    font-size: 11px !important;
+
+}
+ .blog-title h4 {
+    padding: 0 0 15px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.readmore {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+   
+}

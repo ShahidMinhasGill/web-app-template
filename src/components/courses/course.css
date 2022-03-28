@@ -1,0 +1,76 @@
+section {
+    padding: 20px 0;
+    overflow: hidden;
+    margin-top: 10px;
+  }
+  .big-title {
+    display: block;
+    margin-bottom: 50px;
+    position: relative;
+}
+.big-title h2 {
+    font-size: 21px;
+    padding: 0;
+    text-transform: uppercase;
+    line-height: 1.1em;
+    margin: 0 !important;
+    display: block;
+    position: relative;
+}
+hr.customhr {
+    border-style: dashed;
+    border-color: #d0d0d0;
+    display: block;
+    padding: 0;
+    margin: 30px auto 25px;
+    position: relative;
+    width: 40%;
+}
+.big-title p {
+    font-size: 14px;
+    line-height: 1.8;
+    margin-bottom: 0;
+}
+
+
+.widget-title{
+
+    display: flex;
+    justify-content: space-between;
+}
+.widget-title h3 {
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    letter-spacing: 0;
+    
+}
+.widget-title h3 a {
+    color: #27293d;
+    outline: none;
+    text-decoration: none;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    text-align: left;
+}
+.widget-title .btn-inverse {
+    width: auto;
+    height: 30px;
+    line-height: 28px;
+    margin-top: -1px;
+    border-radius: 2px;
+    background-color: transparent !important;
+    border: 2px solid #ededed !important;
+    color: rgb(223, 47, 47) !important;
+    text-align: center;
+    padding: 0 10px !important;
+}
+.star-color{
+    /* background-color: yellow; */
+    color: #f5cd0c;
+}
